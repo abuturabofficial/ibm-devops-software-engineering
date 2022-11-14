@@ -3,7 +3,7 @@
 These are my notes of 12 courses, I took on Coursera, on **'IBM DevOps and Software Engineering Professional Certificate'**
 
 
-> **Warning**: ** These notes are taken, considering my earlier knowledge of the topics, the difficulty level, and the knowledge, I gained from the other courses, I'm taking along with these. So, use these notes at your own discretion.
+> **Warning**: These notes are taken, considering my earlier knowledge of the topics, the difficulty level, and the knowledge, I gained from the other courses, I'm taking along with these. So, use these notes at your own discretion.
 
 ---
 
