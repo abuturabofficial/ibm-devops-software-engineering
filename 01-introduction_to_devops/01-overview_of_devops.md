@@ -20,12 +20,12 @@
 
 -   Work Differently
     
-    Team culture makes a large difference to a team&rsquo;s ability to deliver software and meet or exceed their organizational goals.
+    Team culture makes a large difference to a team's ability to deliver software and meet or exceed their organizational goals.
 
 -   Organize Differently
 
 -   Measure Differently
-    -   Measures what matters
+    -   Measure what matters
     
     -   You get what you measure
 
@@ -33,13 +33,13 @@
 
 Disruptive Business model:
 
--   When disruption happen businesses need to adopt according no matter what, and this adaptation should be agile and lean.
+-   When disruption happen, businesses need to adopt according no matter what, and this adaptation should be agile and lean.
 
 Digitization + Business Model:
 
--   Technology is the enabler of innovation not the driver of innovation.
+-   Technology is the enabler of innovation, not the driver of innovation.
 -   The Businesses, who adapt to new tech, survive.
--   The refusal to change according to the digital ages makes to susceptible to bankruptcy.
+-   The refusal to change according to the digital ages makes it susceptible to bankruptcy.
 
 ## DevOps Adoption
 
@@ -57,7 +57,7 @@ Digitization + Business Model:
 
 ## Definition of DevOps
 
-The term (development and operations) is an extension of agile development environments that aims to enhance the process of software delivery as a whole.&rdquo;
+The term (development and operations) is an extension of agile development environments that aims to enhance the process of software delivery as a whole.
                                                    -Patrick Debois, 2009
 
 ### DevOps defined:
@@ -134,10 +134,10 @@ Agility is the goal:
 
 ### How to change a Culture?
 
--   change thinking patterns of people
+-   Change thinking patterns of people
 -   working methodology as well as environment
--   organizational change
--   change of the way people are measured
+-   Organizational change.
+-   Change of the way people are measured.
 
 ## Leading Up to DevOps
 
@@ -161,7 +161,7 @@ Requirements &#x2014;> Design &#x2014;> Code &#x2014;> Integration &#x2014;> Tes
 
 -   In 1996, Kent Beck introduced Extreme Programming
 -   Based on an interactive approach
--   Intended improve software quality, responsiveness to changing customer requirements
+-   Intended to improve software quality, responsiveness to changing customer requirements
 
 ### The Agile Manifesto
 
