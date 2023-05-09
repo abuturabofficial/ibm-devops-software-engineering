@@ -266,7 +266,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 **2 Speed IT:**
 
-- This how Shawod IT started, as Ops team wasn’t meeting their needs.
+- This is how **Shadow IT** started, as Ops team wasn’t meeting their needs.
 
 ![](assets/Pasted%20image%2020230509084621.png)
 
