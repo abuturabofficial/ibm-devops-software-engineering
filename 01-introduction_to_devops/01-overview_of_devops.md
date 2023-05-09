@@ -151,21 +151,21 @@ Agility is the goal:
 
 ### Agility: The Three pillars
 
-1.  1) DevOps:
+1. DevOps:
 
     - Cultural change
     - Automated pipeline
     - infrastructure as code
     - immutable infrastructure
 
-2.  2) Microservices:
+2. Microservices:
 
     - Loose coupling/binding
     - RESTful APIs
     - Designed to resist failures
     - Test by breaking/fail fast
 
-3.  3) Containers
+3. Containers
 
     - portability
     - Developer centric
