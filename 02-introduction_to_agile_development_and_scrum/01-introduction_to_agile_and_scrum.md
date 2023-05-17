@@ -51,9 +51,13 @@ Agile emphasizes:
 **Agile Manifesto:**
 
 We have come to value:
+
 **Individuals and interactions** over processes and tools.
+
 **Working software** over comprehensive documentation.
+
 **Customer collaboration** over contract negotiation.
+
 **Responding to change** over following a plan.
 
 That is, while there is value in the items on the right, we value the items on the left more.
@@ -106,11 +110,13 @@ Build what **is** needed, not what **was** planned.
 **What is Kanban?**
 
 Kanban | 'kanban | noun
+
 (also Kanban system) a Japanese manufacturing system in which the supply of components is regulated through the use of an instruction card sent along the production line.
 - An instruction card used in a Kanban system.
 
 Origin
-1970s: Japanese, Literally ‘billboard, sign’
+
+1970s: Japanese, Literally mean ‘billboard, sign’
 
 **Core principles of Kanban:**
 
@@ -125,7 +131,7 @@ Origin
 - Working in small batches
 - Minimum Viable Product (MVP)
 - Behavior Driven Development (BDD)
-- Test Driven Development (TDD) (Gherkin Syntax — Cucumber)
+- Test Driven Development (TDD) (Gherkin Syntax — Developed by Cucumber Company)
 - Pair programming
 
 # Introduction to Scrum Methodology
