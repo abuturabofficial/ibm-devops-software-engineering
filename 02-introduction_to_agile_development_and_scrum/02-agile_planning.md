@@ -122,7 +122,9 @@ Stories should contain:
 - User stories document a persona requesting a function to achieve a goal:
 
 As a `<some role>`
+
 I need `<some function>`
+
 So that `<some benefit>`
 
 **Assumptions and details:**
@@ -137,7 +139,9 @@ It’s important to document what you know;
 - I like to use the Gherkin syntax
 
 Given `<some precondition>`
+
 When `<some event happens>`
+
 Then `<some outcome>`
 
 **Sample Story:**
@@ -155,7 +159,7 @@ Then `<some outcome>`
 
 **Epic:**
 
-- A big ideas
+- A big idea
 - A user story that is bigger than a single sprint
 - A user story that is too big to estimate on its own
 
@@ -335,15 +339,21 @@ Take stories from new issues and…
 ### Complete the story template:
 
 As a `<some role>`
+
 I need `<some function>`
+
 So that `<some benefit>`
 
-Assumptions and Details:
+**Assumptions and Details:**
+
 `<anything you already know>`
 
-Acceptance Criteria:
+**Acceptance Criteria:**
+
 Given `<some precondition>`
+
 When `<some event>`
+
 Then `<some measurable outcome>`
 
 **Need a service that has a counter:**
