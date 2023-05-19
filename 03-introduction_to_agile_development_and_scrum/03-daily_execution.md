@@ -73,7 +73,7 @@ Each team member answers three questions:
 
 **Tabled topics:**
 
-- Topics raised during the daily stand-up should be help until the meeting has ended
+- Topics raised during the daily stand-up should be held until the meeting has ended
 - Anyone interested in those topics can stay to discuss
 
 # Completing the Sprint
@@ -89,7 +89,7 @@ Each team member answers three questions:
 **Burndown chart:**
 
 - The measurement of story points completed vs. story points remaining for a sprint
-- Over time the story points remaining should do down, hence the name: burndown
+- Over time the story points remaining should go down, hence the name: burndown
 
 **Burndown chart examples:**
 
@@ -173,15 +173,19 @@ Goals:
 **Top 4 actionable metrics:**
 
 1) Mean Lead Time
+
 How long does it take from the idea to production?
 
 2) Release Frequency
+
 How often can you deliver changes?
 
 3) Change Failure Rate
+
 How typically do changes fail?
 
-4) Mean Time to Recovery (MTTR)
+4) Meantime to Recovery (MTTR)
+
 How quickly can you recover from failure?
 
 **Example metrics:**
