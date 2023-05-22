@@ -144,7 +144,7 @@ Assembly language syntax:
 - One statement per line
 
 ```assembly
-{lable} mnemonic {operand list} {;comment}
+{lable} mnemonic {operand list} ;{comment}
 ```
 
 ```assembly
@@ -272,7 +272,7 @@ Do-while loop: Condition always executed after the body of a loop
 	- Data type > array name > array size `[]`
 
 ```array
-int my_array[50}
+int my_array[50]
 ```
 **Vectors:**
 
