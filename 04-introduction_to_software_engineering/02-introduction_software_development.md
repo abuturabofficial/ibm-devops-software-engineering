@@ -175,7 +175,7 @@ A cloud application developer’s workbench includes:
 	- Important in environments with many interconnected projects and multiple developers
 	- Automate tasks like
 		- Downloading dependencies
-		- Compiling source cod into binary code
+		- Compiling source code into binary code
 		- Packaging that binary code
 		- Running Tests
 		- Deployment to production systems
