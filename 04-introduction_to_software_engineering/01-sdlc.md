@@ -135,7 +135,7 @@ Requirements;
 
 **Software Requirements Specification:**
 
-- Requirements are documented in the SRC
+- Requirements are documented in the SRS
 - All stakeholders must agree
 
 ### Phase 2: Design
@@ -208,7 +208,7 @@ Quality code must fulfill the intended requirements of the software without defe
 - Well documented
 - Efficient
 
-Coding for quality entails following a set of coding practices during development;
+Coding for quality entails a following set of coding practices during development;
 - Following coding standards
 - Using linters to detect errors
 - Commenting in the code itself to make it easy to understand and modify
@@ -389,7 +389,7 @@ Some of these methodologies are:
 
 ## Software Versions
 
-- Software versions are identified by version numbers indicate:
+- Software versions are identified by version numbers,  indicate:
 	- When the software was released
 	- When it was updated
 	- If any minor changes or fixes were made to the software
