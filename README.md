@@ -7,6 +7,10 @@ These are my notes of 14 courses, I took on Coursera, on **'IBM DevOps and Softw
 3) Introduction to Agile Development and Scrum
 4) Introduction to Software Engineering
 5) Hands-on Introduction to Linux Commands and Shell Scripting
+
+**Additional Resources:** You may not fully understand & complete the final project of creating bash backup script, without some extra help. As, this course only covers the few basics points. I would recommend following the following tutorial from [LearnLinuxTV](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w). This tutorial covers few more things that were missing in this course, which are required or good to know for the final project.
+
+
 6) Getting Started with Git and GitHub
 7) Python for Data Science, AI & Development
 8) Python Project for AI & Application Development
