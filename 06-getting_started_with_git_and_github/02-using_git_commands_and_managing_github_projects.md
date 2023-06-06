@@ -79,9 +79,9 @@
 To keep a fork in sync with the original work from a local clone:
 - Create a local clone of the project
 - Configure Git to sync the fork
-	- Open terminal and changes to the directory containing the clone
+	- Open terminal and change to the directory containing the clone
 	- To access the remote repository, type `git remote -v`
-	- Type `git remote add upstream <clone direcotry>`
+	- Type `git remote add upstream <clone repo url>`
 	- To see the changes, type `git remote -v`
 
 **Commands for Managing Forks:**
@@ -99,13 +99,14 @@ git merge upstream/master
 ## Managing GitHub Projects
 
 **GitHub Developer:**
+
 A Developer communicates with others using these commands:
 
 - `git-clone` from the upstream to prime the local repository
 - `git-pull` and `git-fetch` from “origin” to keep-up-to-date with the upstream
 - `git-push` to shared repository, if you adopt CVS style shared repository workflow
 - `git-format-patch` to prepare email submission
-- `git-send-email` to send your email submission without corruption by your MUA
+- `git-send-email` to send your email submission without corruption by your MUA (Mail User Agent)
 - `git-request-pull` to create a summary of changes for your upstream to pull
 
 **GitHub Integrator:**
