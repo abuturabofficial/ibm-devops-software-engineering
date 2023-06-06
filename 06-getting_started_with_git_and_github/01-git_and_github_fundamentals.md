@@ -85,7 +85,7 @@
 	- Offers free, professional, and enterprise accounts
 	- Till 2022, it had over 100M repos
  - What is a Repository?
-	 - A data structure for strong documents including application source code
+	 - A data structure for storing documents including application source code
 	 - A repository can track and maintain version-control
 
 ### GitLab
